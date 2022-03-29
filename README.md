@@ -6,7 +6,7 @@
 
 * Vanilla JS
 
-* Apis
+* Nationalize Api & WorldBank Api
 
 ### About
 
